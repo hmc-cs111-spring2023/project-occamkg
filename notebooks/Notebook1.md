@@ -16,13 +16,6 @@ I also agreed that it is very helpful to have specific ideas prepared for class 
 
 ## Description
 
-**TODO:** Fill in this part with information about your work this week:
-important design decisions, changes to previous decisions, open questions,
-exciting milestones, preliminary results, etc. Feel free to include images
-(e.g., a sketch of the design or a screenshot of a running program), links to
-code, and any other resources that you think will help clearly convey your
-design process.
-
 The main things I worked on this week were creating an [example output](<https://hmc-cs111-spring2023.github.io/project-code-occamkg/work%20files/basicPres0/example%20output>) and designing an [example syntax](<https://github.com/hmc-cs111-spring2023/project-code-occamkg/tree/master/work%20files/basicPres0/example%20syntax>).
 I spent most of my time on creating the output because I also needed to refamiliarize myself with web language programming.
 
