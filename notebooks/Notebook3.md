@@ -64,4 +64,4 @@ project, how did this week go?**
 I really got a lot out of parsing using two different methods in this project: I enjoyed parsing the YAML data structures while also figuring out how to parse my own unique syntax using regular expressions.
 I am also adding more features now which is what I was really excited about for this project, so that has been a good (maybe too good) motivation for working on the project.
 
-Also, something I din't think much about in my contract was how I would package up the project, but considering my different options there as well has been a great learning experience.
+Also, something I didn't think much about in my contract was how I would package up the project, but considering my different options there as well has been a great learning experience.
